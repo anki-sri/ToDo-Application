@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo Application</string>
+
+
+        <string name="hello_world">Database Application</string>
+        <string name="action_settings">Settings</string>
+        <string name="input1">Title</string>
+        <string name="input2">Work-Detail</string>
+        <string name="submit">Submit</string>
+
+</resources>
